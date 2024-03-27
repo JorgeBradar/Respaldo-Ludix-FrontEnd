@@ -1,0 +1,87 @@
+
+body{
+    background-color:#eef3f4;    
+    }
+    
+    .height-100{
+        height:50vh;
+    }
+    
+    .card.review {
+        width:380px;
+        border:none;
+        height:280px;
+    }
+    
+    .ratings{
+        margin-right:10px;
+    }
+    
+    .ratings i{
+        
+        color:#cecece;
+        font-size:32px;
+    }
+    
+    .rating-color{
+        color:#fbc634 !important;
+    }
+    
+    .review-count{
+        font-weight:400;
+        margin-bottom:2px;
+        font-size:24px !important;
+    }
+    
+    .small-ratings i{
+      color:#cecece;   
+    }
+    
+    .review-stat{
+        font-weight:300;
+        font-size:18px;
+        margin-bottom:2px;
+    }
+
+.carousel-inner {
+    border-radius: 5px; 
+    overflow: hidden;
+}
+.list-group {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-group-item {
+  padding: 10px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+}
+
+.item-image {
+  width: 150px; 
+  height: 150px; 
+  border-radius: 100%; 
+  margin-right: 100px;
+
+}
+
+.bar {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 20px;
+  background-color: black;
+}
+
+.bar-left {
+  left: 0;
+}
+
+.bar-right {
+  right: 0;
+}
+
